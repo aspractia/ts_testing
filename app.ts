@@ -12,3 +12,4 @@ class Villano {
 }
 
 let v = new Villano("Xmen");
+console.log(v.plan());

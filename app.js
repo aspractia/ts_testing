@@ -8,3 +8,4 @@ var Villano = /** @class */ (function () {
     return Villano;
 }());
 var v = new Villano("Xmen");
+console.log(v.plan());
